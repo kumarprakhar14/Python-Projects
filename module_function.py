@@ -23,8 +23,14 @@
 # be called as Module Function.
 # Below, we consider an example to know how a module function works.
 
-import math
+"""import math
 print(dir(math))    #prints all the function stored in 'math' module
 
 from math import sqrt  #imports sqrt fn. from math module
 print(sqrt(4))
+
+import numpy
+print(dir(numpy))"""
+
+import pandas
+print(dir(pandas))
