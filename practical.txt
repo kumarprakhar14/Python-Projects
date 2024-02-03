@@ -1,0 +1,10 @@
+Practical 1
+
+Objective:
+
+Source Code:
+#comments
+
+Input: 
+
+Output:

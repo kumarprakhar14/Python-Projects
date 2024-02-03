@@ -1,0 +1,48 @@
+1. To make presentations:
+	gamma.app
+Note: we can take prompts from chatgpt and give prompts to gamma.
+
+2. To read paid news articals free of cost:
+	12ft.io
+	Copy the link of the artical and paste on the website 12ft.io
+
+3. To read paid research papers:
+	sci-hu.se
+	Copy the title of the research paper and paste in the referene section
+
+4. To summarize long artical/linkedin post/research paper:
+	merlin chrome extension
+	Go to chrome, search for merlin chrome extension, add it to chrome, select any text and right click
+	select "give context to merlin"
+Note: This tool can be used to summarize youtube videos.
+      Just go to youtube, open the video and click on the option summarize with merlin
+      This tool can create summary from any language to any language.
+
+5. To generate ai images:
+	playgroung.ai
+
+6. Practise for an interview/presentation/speech:
+	yoodli.ai
+Note: Go to analytics section after you finish recording yourself.
+
+7. Write codes efficiantly/translate the codes from one language to other:
+	Bard/chatgpt
+
+8. To debug the codes:
+	debugcode.ai
+
+9. To get excel, google sheet, airtable, sql formula:
+	formula.dog
+	Give simple English use case prompts to find the formula
+	This tool can be used to interpret any excel formulas as well by going to explain tab
+
+10. Find email id/phone no. of anyone on linkedin:
+`	signalhire
+	i. Create an account on signalhire
+	ii. Go to linkedin and find the required account
+	iii. You see a SH pop on right top corner, click on it and you find the details.
+
+11. To get rid of spam mails:
+	nroll.me
+
+	
